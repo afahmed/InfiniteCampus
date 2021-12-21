@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression Teset">
+    <test name="TAE Exercise">
+        <classes>
+            <class name="com.infinitecampus.tests.SearchPageGoogleTest"></class>
+            <class name="com.infinitecampus.tests.InfiniteCareerCampusTest"></class>
+            <class name="com.infinitecampus.tests.CareerOpportunitiesTest"></class>
+        </classes>
+    </test>
+</suite>
